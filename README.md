@@ -1,5 +1,5 @@
 ## S3MOT: Monocular 3D Object Tracking with Selective State Space Model
-[Install](#installation) // [Datasets](#datasets) // [Experiments](#experiments) //  [Models](#models) // [License](#license)
+[Install](#installation) // [Datasets](#datasets) // [Experiments](#experiments) //  [Models](#models) // [License](#license) // [Paper](https://arxiv.org/pdf/2504.18068?)
 
 We will release the source code and model weights soon!
 
